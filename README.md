@@ -11,4 +11,4 @@ I'm a Brazilian Frontend Developer with an insatiable passion to build amazing a
 🤘 Knowledge and work experience with VueJS, Sass, PHP, Git, Laravel, and MySQL;  
 👌 Knowledge of ReactJS, NodeJS (AdonisJS), AWS, Ubuntu, Serverless, and Docker;  
 
-Currently I'm pushing code at [Just Eat Takeaway](https://justeattakeaway.com)
+Currently I'm pushing code at [IKEA](https://ikea.com)
