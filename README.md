@@ -1,5 +1,9 @@
 ### Hello stranger 👋
 
+```bash
+npx vicainelli
+```
+
 My name is Vinicius Cainelli, but you can call me _Vini_.
 
 I'm a Brazilian Frontend Developer with an insatiable passion to build amazing and beautiful applications that customers love to use
